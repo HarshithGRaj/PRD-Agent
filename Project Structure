@@ -1,0 +1,5 @@
+PRD-Agent/
+├── src/            # Source code and agent logic
+├── .env.example    # Template for environment variables
+├── requirements.txt# Python dependencies (or package.json for Node)
+└── README.md       # Project documentation
