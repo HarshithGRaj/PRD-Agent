@@ -1,0 +1,5 @@
+# If using Python:
+python main.py
+
+# If using Node.js:
+npm start
