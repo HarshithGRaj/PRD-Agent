@@ -1,0 +1,8 @@
+### How to update your GitHub repository with this code:
+
+1. Paste the code above into your local `README.md` file and save it.
+2. Run these commands in your terminal:
+   ```bash
+   git add README.md
+   git commit -m "Add complete README.md documentation"
+   git pus
